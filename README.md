@@ -2,7 +2,6 @@
 - Welcome to my profile.
 - I code stuff and play games.
 - Age: 16
-- Pronouns: She/Her
 - Currently learning: HTML + CSS, Python, C++.
 
 
