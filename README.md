@@ -1,7 +1,10 @@
-- hi.
-- i code n do stuff.
-- 17
-- currently learning HTML n CSS.
+##hi
+
+<ul>
+  guh
+  wuh
+  buh
+</ul>
 <!---
 coldbois/coldbois is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
